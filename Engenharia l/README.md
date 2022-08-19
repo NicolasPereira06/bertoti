@@ -13,3 +13,7 @@
 <h2> Comentário: </h2>
 
 <p> A Engenharia de Software abrange um conceito mais amplo do que a própria programação em si, além de desenvolver o software, um engenheiro tem que se preocupar com a escala e a eficiência do programa e da organização que o produz, além de estimular resultados e simular situações.</p>
+
+<h2 Qual é o trade-off em relação ao API: </h2>
+
+<p> Em relação ao API em as tecnologias utilizados, o trade-off seria na ligação e controle com o banco de dados, visto que existem outras linguagens de programação mais eficazes em fazer essa transição com o banco de dados e também no controle de modelação de dados fornecidos pelo cliente durante o registro na aplicação.
