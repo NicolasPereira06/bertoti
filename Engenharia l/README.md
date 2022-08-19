@@ -14,7 +14,7 @@
 
 <p> A Engenharia de Software abrange um conceito mais amplo do que a própria programação em si, além de desenvolver o software, um engenheiro tem que se preocupar com a escala e a eficiência do programa e da organização que o produz, além de estimular resultados e simular situações.</p>
 
-<br> <br>
+<br>
 
 <h2> Qual é o trade-off em relação ao API: </h2>
 
