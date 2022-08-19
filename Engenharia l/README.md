@@ -16,4 +16,4 @@
 
 <h2 Qual é o trade-off em relação ao API: </h2>
 
-<p> Em relação ao API em as tecnologias utilizados, o trade-off seria na ligação e controle com o banco de dados, visto que existem outras linguagens de programação mais eficazes em fazer essa transição com o banco de dados e também no controle de modelação de dados fornecidos pelo cliente durante o registro na aplicação.
+<p> Em relação ao API em as tecnologias utilizados, o trade-off seria na ligação e controle com o banco de dados, visto que existem outras linguagens de programação mais eficazes em fazer essa transição com o banco de dados e também no controle de modelação de dados fornecidos pelo cliente durante o registro na aplicação. </p>
