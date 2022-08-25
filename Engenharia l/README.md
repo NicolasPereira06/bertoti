@@ -24,4 +24,4 @@
 
 <h2> Requisitos Funcionais e Não-Funcionais do aplicativo iFood: </h2>
 
-<b><p> Requisitos Funcionais:</p></b>
+<b>Requisitos Funcionais:</b>
