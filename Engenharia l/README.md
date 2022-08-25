@@ -22,6 +22,25 @@
 
 <br>
 
-<h2> Requisitos Funcionais e Não-Funcionais do aplicativo iFood: </h2>
+<h2> Requisitos Funcionais e Não-Funcionais de aplicativo de entrega de alimentos: </h2>
 
 <h3> Requisitos Funcionais: </h3>
+
+<p> • Realizar pesquisa de alimentos. </p>
+<p> • Solicitar entrega delivery. </p>
+<p> • Pesquisar preço de alimentos. </p>
+<p> • Solicitar descontos e diferentes meios de pagamentos.</p>
+<p> • Realizar compras mensais em mercados cadastrados.</p>
+<p> • Comprar medicamentos de forma rápida e intuitiva.</p>
+<p> • Encomendar produtos e retira-los imediatamente na loja. </p>
+
+<br>
+
+<h3> Requisitos Não-Funcionais: </h3>
+
+<p> • Contato rápido com o suporte.</p>
+<p> • Acompanhamento do pedido em tempo-real. </p>
+<p> • Feedback do aplicativo com o cliente. </p>
+<p> • Plataforma rápida e intuitiva.</p>
+<p> • Funcionários de prontidão para o atendimento online. </p>
+<p> • Custo-benefício em torno do aplicativo e dos produtos.</p>
