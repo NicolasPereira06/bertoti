@@ -46,3 +46,7 @@
 <p> • Plataforma rápida e intuitiva.</p>
 <p> • Funcionários de prontidão para o atendimento online. </p>
 <p> • Custo-benefício em torno do aplicativo e dos produtos.</p>
+
+<h1> 20/10/2022 - Diagrama de Casos de Uso </h1>
+
+<img src="Imagens/Diagrama.png" alt="Diagrama de Casos de Uso.">
