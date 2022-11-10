@@ -47,10 +47,10 @@
 <p> • Funcionários de prontidão para o atendimento online. </p>
 <p> • Custo-benefício em torno do aplicativo e dos produtos.</p>
 
-<h1> 20/10/2022 - Diagrama de Classes de Loja de Vendas de Produtos </h1>
+<h2> 20/10/2022 - Diagrama de Classes de Loja de Vendas de Produtos </h2>
 
 <img src="Imagens/DIAGRAMA.png" alt="Diagrama de Classes de Loja de Vendas de Produtos.">
 
-<h1> 08/11/2022 - Diagrama de Casos de Uso </h1>
+<h2> 08/11/2022 - Diagrama de Casos de Uso </h2>
 
-<img src="Imagens/diagrama.png" alt="Diagrama de Casos de Uso.">
+<img src="Imagens/Diagrama.png" alt="Diagrama de Casos de Uso.">
