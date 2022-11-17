@@ -53,4 +53,4 @@
 
 <h2> 08/11/2022 - Diagrama de Casos de Uso </h2>
 
-<img src="Imagens/Diagrama.png" alt="Diagrama de Casos de Uso.">
+<img src="Imagens/Casos de Uso.png" alt="Diagrama de Casos de Uso.">
