@@ -10,11 +10,11 @@
   tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. 
   Software engineering isn’t programming." </p>
 
-<p> Titus Winters, Software Engineering at Google </p>
+<p> Titus Winters, Software Engineering at Google </p> 
 
 <h2> Comentário: </h2>
 
-<p> A Engenharia de Software abrange um conceito mais amplo do que a própria programação em si, além de desenvolver o software, um engenheiro tem que se preocupar com a escala e a eficiência do programa e da organização que o produz, além de estimular resultados e simular situações.</p>
+<p> A Engenharia de Software abrange um conceito mais amplo do que a própria programação em si, além de desenvolver o software, um engenheiro tem que se preocupar com a escalabilidade e a eficiência do programa e da organização que o produz, além de estimular resultados e simular situações.</p>
 
 <br>
 
