@@ -32,6 +32,6 @@
 
 <h2> Imagem 6: </h2>
 
-<p><b> Site com interface minimalista, o aplicativo mobile do LinkedIn possui um visual minimalista, o que dificulta a usabilidade da aplicação. <b><p>
+<p><b> Aplicativo com interface minimalista, a aplicação mobile do LinkedIn possui um visual minimalista, o que dificulta a usabilidade do sistema. <b><p>
 
 <img src="Imagens/linked.png"/>
