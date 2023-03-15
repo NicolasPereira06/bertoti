@@ -50,7 +50,7 @@
 
 <h2> Imagem 9: </h2>
 
-<p><b>Site que falta eficiência de uso, o Site de Maps da Google não possui atalhos para serviços essênciais ou de emergências como Hoteis, Hospitais, Postos de Gasolina. O Usuário deve procurar no mapa o mais próximo e criar a rota.  </b></p>
+<p><b>Site que falta eficiência de uso, o Site de Maps da Google não possui atalhos para serviços de emergências como Hospitais, Delegacias ou Corpos de Bombeiros. O Usuário deve procurar no mapa o mais próximo e criar a rota.  </b></p>
 
 <img src="Imagens/maps.png"/>
 
