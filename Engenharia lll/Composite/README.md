@@ -1,4 +1,7 @@
 <h2> Composite </h2>
-<p align="center"> Diagrama UML 
-    <img align="center" src="DiagramaClasses/composite.png"/>
-</p>
+<div align="center"> 
+    <p> Diagrama UML </p>
+    <img src="DiagramaClasses/composite.png">
+</div>
+
+
