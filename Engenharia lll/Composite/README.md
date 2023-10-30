@@ -3,5 +3,3 @@
     <p> Diagrama UML </p>
     <img src="DiagramaClasses/composite.png">
 </div>
-
-
