@@ -13,14 +13,14 @@
         <td> Herança e Declarações Switch, o uso excessivo de instruções para selecionar a estratégia a ser usada pode levar a um código difícil de manter.</td>
         <td> É um padrão comportamental que permite definir uma família de algoritmos, encapsulá-los e torná-los intercambiáveis.</td>
         <td>Esse padrão resolve o problema de escolher e trocar algoritmos de forma dinâmica.</td>
-        <td> As interfaces javas são usadas para implementar o Padrão Strategy em Java. Elas permitem que você defina estratégias de comparação personalizadas para objetos.</td>
+        <td>Java Comparable/Comparator: As interfaces javas são usadas no Comparable, para implementar o Padrão Strategy em Java. Elas permitem que você defina estratégias de comparação personalizadas para objetos.</td>
     </tr>
     <tr>
         <td>Observer</td>
         <td>Criar um grande número de observadores pode levar a uma complexidade excessiva e dificuldade em rastrear todas as dependências da classe.</td>
         <td>Esse é um padrão comportamental que define uma dependência (1-N) entre objetos, Quando um objeto sofre uma mudança de estado, todos os seus dependentes são notificados e atualizados.</td>
         <td>Ele lida com o problema de estabelecer uma comunicação eficaz entre objetos quando um muda de estado e vários outros objetos precisam ser notificados e atualizados.</td>
-        <td>Manipulação de Eventos: A API de manipulação de eventos em Java, como o uso de listeners e a classe java.util.Observable, implementa Esse padrão.</td>
+        <td>Event Handling (Manipulação de Eventos): A API de manipulação de eventos em Java, como o uso de listeners e a classe java.util.Observable, implementa Esse padrão.</td>
     </tr>
     <tr>
         <td>Composite</td>
@@ -34,7 +34,7 @@
         <td>Classe Deus: O antipadrão "Classe Deus" ocorre quando a classe Facade se torna uma classe gigante que lida com quase todas as operações do sistema.</td>
         <td>O Padrão de Fachada é uma estrutura de design que disponibiliza uma interface simplificada para um conjunto mais abrangente de interfaces em um subsistema. Seu objetivo é mascarar a complexidade do sistema e oferecer um ponto de acesso único e amigável para os utilizadores.</td>
         <td>Esse padrão lida com a questão de simplificar interfaces complicadas ou subsistemas. Ele disponibiliza uma única e simplificada interface para um conjunto mais abrangente de interfaces em um subsistema, mascarando a complexidade do sistema subjacente. Isso simplifica a interação dos clientes com o sistema, sem a necessidade de compreender a sua complexidade interna.</td>
-        <td>Java Database Connectivity: A API JDBC em Java fornece uma fachada para interagir com bancos de dados. Em vez de lidar diretamente com detalhes de conexão e gerenciamento de consultas.</td>
+        <td>Java Database Connectivity (JDBC): A API JDBC em Java fornece uma fachada para interagir com bancos de dados. Em vez de lidar diretamente com detalhes de conexão e gerenciamento de consultas.</td>
     </tr>
     <tr>
         <td>Singleton</td>
