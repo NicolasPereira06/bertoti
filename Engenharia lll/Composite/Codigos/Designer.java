@@ -15,6 +15,10 @@ public class Designer implements Funcionario {
         this.experiencia = experiencia;
     }
 
+    public String getNome() {
+        return this.nome;
+    }
+
     public String getConhecimento() {
         return this.conhecimento;
     }
