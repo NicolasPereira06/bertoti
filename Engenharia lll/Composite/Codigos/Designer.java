@@ -1,15 +1,15 @@
-public class Desenvolvedor implements Funcionario {
+public class Designer implements Funcionario {
   private String nome;
   private String conhecimento;
   private String experiencia;
 
-  public Desenvolvedor(String nome, String conhecimento, String experiencia) {
+  public Designer(String nome, String conhecimento, String experiencia) {
     this.nome = nome;
     this.conhecimento = conhecimento;
     this.experiencia = experiencia;
   }
 
-    public void setCargoDesenvolvedor(String nome, String conhecimento, String experiencia){
+    public void setCargoDesigner(String nome, String conhecimento, String experiencia){
         this.nome = nome;
         this.conhecimento = conhecimento;
         this.experiencia = experiencia;
